@@ -5,11 +5,11 @@ using UnityEngine;
 public class Summary : MonoBehaviour
 {
     // Variable types in C#
-    public int age = 15; // Números enteros, positivos o negativos
-    private float _price = 3.2f; // Números decimales con precisión limitada (4 bytes de memoria)
+    public int age = 25; // Números enteros, positivos o negativos
+    private float _price = 12.4f; // Números decimales con precisión limitada (4 bytes de memoria)
     private double _distance = 120000d; // Decimales con mayor precisión que float (8 bytes de memoria)
     private char _singleValue = 'A'; // Un solo carácter (letras, números o símbolos)
-    private string _name = "Nicolas"; // Cadena de caracteres (texto)
+    private string _name = "Agustin"; // Cadena de caracteres (texto)
 
     public int x; // número que se utilizará en condicionales y bucles
 
